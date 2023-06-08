@@ -1,0 +1,4 @@
+seaborn
+scipy
+sklearn
+sentence-transformers
