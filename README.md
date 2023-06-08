@@ -21,5 +21,5 @@ A flattened embedding space of names clustered based on their interests using th
 5. Bask in the glory of having an awesome new poster
 
 ## Notes
-Using Python 3.9.6 virtual environment
+Using Python 3.9.6 virtual environment  
 pip install -r requirements.txt
