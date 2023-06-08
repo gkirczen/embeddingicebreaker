@@ -19,3 +19,7 @@ A flattened embedding space of names clustered based on their interests using th
 3. Replace `attendees.csv` in `visualizer.ipynb` with the path to your downloaded data
 4. Run all cells
 5. Bask in the glory of having an awesome new poster
+
+## Notes
+Using Python 3.9.6 virtual environment
+pip install -r requirements.txt
