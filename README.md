@@ -9,11 +9,14 @@ classmates.csv generated using GPT-4
 ## What Are Embeddings?
 Insert answer to question 1 here
 
-## Data Sensitivity Tests
+## Data Analysis
 Insert answer to question 2 here
 
-## Dimension Reduction Analysis
+## Embedding Sensitivity Tests
 Insert answer to question 3 here
+
+## Dimension Reduction Analysis
+Insert answer to question 4 here
 
 ## Notes
 Using Python 3.9.6 virtual environment  
